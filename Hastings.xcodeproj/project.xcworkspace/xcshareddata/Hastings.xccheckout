@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>07F82724-FB8F-4EBA-BC31-773E3A8F3A5D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Hastings</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>444F1C8A-62FB-44EA-B56E-5F2BB30DA176</key>
+		<string>https://github.com/hcappdev/HastingsMobileiOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hastings.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>444F1C8A-62FB-44EA-B56E-5F2BB30DA176</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hcappdev/HastingsMobileiOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>444F1C8A-62FB-44EA-B56E-5F2BB30DA176</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>444F1C8A-62FB-44EA-B56E-5F2BB30DA176</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HastingsMobileiOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
